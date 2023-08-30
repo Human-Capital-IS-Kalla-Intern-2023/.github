@@ -5,7 +5,7 @@
 <h4>
     <a href="https://github.com/Human-Capital-IS-Kalla-Intern-2023/frontend-kalla-employee-management">FrontEnd</a>
   <span> · </span>
-    <a href="">BackEnd</a>
+    <a href="https://github.com/Human-Capital-IS-Kalla-Intern-2023/backend-kalla-employee-management">BackEnd</a>
   </h4>
 </div>
 
@@ -47,7 +47,7 @@ Kalla Employee Management FrontEnd build using `React.js`,  you can see all the 
 <!-- Backend -->
 # :cloud: BackEnd
 <a name="backend"></a>
-Kalla Employee Management API built using `Laravel`,  you can see all the BackEnd API code & installation in this [BackEnd Repository]()
+Kalla Employee Management API built using `Laravel`,  you can see all the BackEnd API code & installation in this [BackEnd Repository](https://github.com/Human-Capital-IS-Kalla-Intern-2023/backend-kalla-employee-management)
 
 **Teach Stack**:
   1. Laravel, offers organized backend development with elegant syntax and built-in tools, ensuring scalable and maintainable applications.
